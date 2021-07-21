@@ -16,3 +16,6 @@ the arguments here are:
   urls: The file downloaded  by our js code
   output: the location where we want our images to be stored. 
   *** Please Note, the folder must be created before hand ***
+  
+  
+  For any issues with following the process, refer to this [link](https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/)
